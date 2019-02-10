@@ -1,0 +1,22 @@
+{
+  "name": "h53-hackbu",
+  "version": "1.0.0",
+  "description": "Training With Node From Scrath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vocchiogrosso/H53-HackBU.git"
+  },
+  "author": "Vincent Occhiogrosso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vocchiogrosso/H53-HackBU/issues"
+  },
+  "homepage": "https://github.com/vocchiogrosso/H53-HackBU#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
